@@ -50,5 +50,5 @@ sed '5,7d' file.txt
 
 Remove the line matching by a regular expression ```Abcde```:
 ```
-sed '/oops/d' file.txt
+sed '/Abcde/d' file.txt
 ```
