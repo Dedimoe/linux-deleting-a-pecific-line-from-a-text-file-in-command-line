@@ -18,7 +18,7 @@ with ```sed``` command :
 sed -i '2d' file.txt
 ```
 
-Note: ```-i``` means edit the filea, ```d``` is the command to delete, 2 means the 2nd line.
+Note: ```-i``` means edit the filea, ```d``` is the command to delete, ```2``` means the 2nd line.
 
 The output file content will be:
 ```
